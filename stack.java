@@ -8,6 +8,7 @@ import.java.util.stack;
 	stack.push("GTA");
 	stack.push("doom");
 	stack.push("borderlands");
+        stack.push("TEKKEN");
 
 	system.out.println(stack.search("GTA"));
 	system.out.println(stack);
