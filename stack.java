@@ -12,6 +12,7 @@ import.java.util.stack;
 
 	system.out.println(stack.search("GTA"));
 	system.out.println(stack);
+        sytem.out.println("code successfull");
 
  }
 
