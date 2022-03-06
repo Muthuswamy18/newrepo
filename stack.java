@@ -11,7 +11,7 @@ import.java.util.stack;
 
 	system.out.println(stack.search("GTA"));
 	system.out.println(stack);
-
+        system.out.println("inslave");
  }
 
  }
