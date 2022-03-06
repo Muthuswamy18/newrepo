@@ -12,7 +12,8 @@
 	system.out.println(stack.search("GTA"));
 	system.out.println(stack);
         system.out.println("over");
-	 
+	system.out.println("over");
+
  }
 
  }
