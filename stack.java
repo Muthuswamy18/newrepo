@@ -14,12 +14,6 @@
         system.out.println("over");
 	system.out.println("over");
         system.out.println("over");
-<<<<<<< HEAD
-
-
-=======
- 
->>>>>>> 8aee9d7100df67c4e93a2a0e208b3029807fc9a5
  }
 
  }
